@@ -7,5 +7,5 @@ ___
 * index-original.html : 원본입니다.
 index.html : 제가 직접한 초안입니다.
 index-ver2 : 수정본 입니다.
-* https://ssssssjay.github.io/media-query/index.html
+* https://ssssssjay.github.io/10-000hours-mediaquery/
 ![반응형](https://user-images.githubusercontent.com/48425930/141160855-20117553-b8f9-4e15-b06e-481c9e1175f9.gif)
