@@ -11,7 +11,7 @@ ___
 
 응원을 담은 모달창에는 종료버튼이 있습니다.
 ___
-* https://ssssssjay.github.io/10-000hours-mediaquery/
+* https://ssssssjay.github.io/10000-hours/
 ___
 ## 초안
 * 각각의 기기에 맞추어 반응형 웹을 구현하였습니다.
